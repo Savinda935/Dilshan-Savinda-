@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **MERN Stack and Flutter**
 - 🎓 I’m studying at **SLIIT**
-- 📫 How to reach me: **dilshansavinda@gmail.com**
+- 📫 How to reach me: **dilshansavinda83@gmail.com**
 - ⚡ Fun fact: **I think I'm a silent person**
 
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dilshan-savinda-795753312/)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourprofile)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/yourchannel)
