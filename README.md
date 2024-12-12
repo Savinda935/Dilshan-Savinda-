@@ -8,6 +8,17 @@
 - 🎓 I’m studying at **SLIIT**
 - 📫 How to reach me: **dilshansavinda83@gmail.com**
 - ⚡ Fun fact: **I think I'm a silent person**
+---
+## GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+---
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
