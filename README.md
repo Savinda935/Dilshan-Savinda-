@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **I think I'm a silent person**
 ---
 ## GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Savinda935&theme=react-dark)
 
 ---
 
@@ -18,7 +18,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savinda935&show_icons=true&theme=radical)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Savinda935&layout=compact&theme=radical)
 
 ---
 
