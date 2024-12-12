@@ -8,10 +8,7 @@
 - 🎓 I’m studying at **SLIIT**
 - 📫 How to reach me: **dilshansavinda83@gmail.com**
 - ⚡ Fun fact: **I think I'm a silent person**
----
-## GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Savinda935&theme=react-dark)
-
+  
 ---
 
 ## GitHub Stats
